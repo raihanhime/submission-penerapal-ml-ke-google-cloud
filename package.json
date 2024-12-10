@@ -1,13 +1,13 @@
 {
-  "name": "backend-ml",
+  "name": "penerapan-ml-ke-gcloud",
   "version": "1.0.0",
-  "description": "API ML",
+  "description": "dicoding submission",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=production node src/server.js",
     "start-dev": "node src/server.js"
   },
-  "author": "Ahmad faisal",
+  "author": "Raihan Laurent Ratnata",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/firestore": "^7.7.0",
