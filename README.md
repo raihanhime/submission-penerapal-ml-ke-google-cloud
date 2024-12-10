@@ -1,5 +1,5 @@
-# Machine Learning Submission Dicoding
+# Submission Dicoding
 
-Repo backend untuk menyelesaikan submission Dicoding di materi Belajar Penerapan Machine Learning dengan Google Cloud tahun 2024.
+repo untuk submission dicoding materi penerapan machine learning ke google cloud
 
 Deploy via Cloud Run.
