@@ -5,5 +5,5 @@ RUN npm install
 COPY . .
 ENV PORT=3000
 # Model URL JSON
-ENV MODEL_URL=https://storage.googleapis.com/ax-ml-model-bucket/submissions-model/model.json
+ENV MODEL_URL=https://storage.googleapis.com/model-submission1/model-in-prod/model.json
 CMD ["npm", "start"]
